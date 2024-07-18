@@ -5,6 +5,7 @@
 ## Introduction
 
 Welcome to this repository! This repo contains beginner-level JavaScript projects that help beginners get comfortable with JS.
+
 Also I haven't invested time in CSS, just focused on functionality.
 
 
